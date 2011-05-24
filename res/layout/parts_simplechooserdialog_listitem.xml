@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<TextView 	xmlns:android="http://schemas.android.com/apk/res/android"
+
+	android:id="@android:id/text1"
+	android:layout_width="fill_parent"
+	android:layout_height="?android:attr/listPreferredItemHeight"
+
+	android:paddingLeft="6dip"
+	android:paddingRight="6dip"
+
+	android:textSize="16sp"
+	android:textColor="#333333"
+
+	android:ellipsize="marquee"
+	android:singleLine="false"
+	android:gravity="left|center_vertical"
+/>

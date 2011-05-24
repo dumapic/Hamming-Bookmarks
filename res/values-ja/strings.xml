@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<resources>
+
+	<string name="caption_label_created">登録日: </string>
+	<string name="caption_label_lastaccessed">アクセス日: </string>
+	<string name="caption_label_no_tagged">(未分類)</string>
+	<string name="caption_label_additem_title">タイトル</string>
+	<string name="caption_label_additem_url">URL</string>
+	<string name="caption_label_additem_tag">追加先</string>
+
+	<string name="caption_menu_tags_rename">名前を変更</string>
+	<string name="caption_menu_tags_delete">タグを削除</string>
+	<string name="caption_menu_tags_add">タグを追加</string>
+	<string name="caption_menu_tags_sync">同期</string>
+	<string name="caption_menu_tags_sort">表示順</string>
+
+	<string name="caption_menu_items_update_title">タイトル変更</string>
+	<string name="caption_menu_items_update_thumbnail">サムネイルを更新</string>
+	<string name="caption_menu_items_delete">アイテムを削除</string>
+	<string name="caption_menu_items_move">別のタグに移動</string>
+	<string name="caption_menu_items_browse">ブラウザで表示</string>
+	<string name="caption_menu_items_share">他のアプリに共有</string>
+	<string name="caption_menu_items_copy">URLをコピー</string>
+	<string name="caption_menu_items_sort">表示順</string>
+	<string name="caption_menu_items_add">ブックマーク追加</string>
+
+	<string name="caption_sortorder_title_asc">タイトル順</string>
+	<string name="caption_sortorder_title_desc">タイトルの逆順</string>
+	<string name="caption_sortorder_url_asc">URL順</string>
+	<string name="caption_sortorder_created_desc">登録日の直近日時順</string>
+	<string name="caption_sortorder_lastaccessed_desc">最終アクセス日の直近日時順</string>
+
+	<string name="caption_button_ok">OK</string>
+	<string name="caption_button_cancel">キャンセル</string>
+	<string name="caption_button_continue">続行</string>
+	<string name="caption_button_discard">中止</string>
+
+	<string name="caption_title_inputtagname">タグ名を入力</string>
+	<string name="caption_title_choose_tags">タグを選択</string>
+	<string name="caption_title_inputbookmarktitle">タイトルを入力</string>
+	<string name="caption_title_addbookmark">ブックマーク追加</string>
+
+	<string name="caption_hint_additem_title">タイトルを入力</string>
+	<string name="caption_hint_additem_url">URLを入力</string>
+
+	<string name="msg_error_unexpectederror">予期しないエラーが発生しました。</string>
+	<string name="msg_error_loaditems_failed">ロード中にエラーが発生しました。</string>
+	<string name="msg_error_operation_canceled">処理は中断されました。</string>
+	<string name="msg_error_activity_not_found">対応アプリケーションが存在しません。</string>
+	<string name="msg_error_busy">現在処理中です。しばらくお待ちください。</string>
+	<string name="msg_error_text_is_null_or_empty">空欄入力は無効です。</string>
+	<string name="msg_error_text_is_invalid">無効な入力です。</string>
+	<string name="msg_error_can_not_delete_tag">このタグは削除できません。</string>
+	<string name="msg_error_network_unavailable">ネットワーク接続が無効です。</string>
+
+	<string name="msg_normal_default_add">追加しました。</string>
+	<string name="msg_normal_default_deleted">削除しました。</string>
+	<string name="msg_normal_default_updated">変更しました。</string>
+	<string name="msg_normal_default_moved">移動しました。</string>
+	<string name="msg_normal_default_syncdone">同期が完了しました。</string>
+	<string name="msg_normal_default_failed">失敗しました。</string>
+
+	<string name="msg_normal_copy_to_clipboard">URLをクリップボードにコピーしました。</string>
+	<string name="msg_normal_sync_continue">同期を開始します。よろしいですか？</string>
+	<string name="msg_normal_sync_start">ここを押して同期を開始してください。</string>
+	<string name="msg_normal_sync_progressing">同期中です。しばらくお待ちください。</string>
+	<string name="msg_normal_empty_items">ブックマークはありません。</string>
+
+</resources>

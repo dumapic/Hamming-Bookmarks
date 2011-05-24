@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/menu_add" android:title="@string/caption_menu_tags_add" android:icon="@drawable/ic_menu_add" />
+	<item android:id="@+id/menu_sort" android:title="@string/caption_menu_tags_sort" android:icon="@drawable/ic_menu_sort_by_size" />
+	<item android:id="@+id/menu_sync" android:title="@string/caption_menu_tags_sync" android:icon="@drawable/ic_menu_refresh" />
+
+</menu>

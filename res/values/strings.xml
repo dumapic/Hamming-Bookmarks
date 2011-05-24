@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<resources>
+
+	<string name="caption_label_created">Created: </string>
+	<string name="caption_label_lastaccessed">Accessed: </string>
+	<string name="caption_label_no_tagged">(No tagged)</string>
+	<string name="caption_label_additem_title">Title</string>
+	<string name="caption_label_additem_url">URL</string>
+	<string name="caption_label_additem_tag">Tag</string>
+
+	<string name="caption_menu_tags_rename">Rename</string>
+	<string name="caption_menu_tags_delete">Delete</string>
+	<string name="caption_menu_tags_add">Add tag</string>
+	<string name="caption_menu_tags_sync">Sync</string>
+	<string name="caption_menu_tags_sort">Sort by</string>
+
+	<string name="caption_menu_items_update_title">Change title</string>
+	<string name="caption_menu_items_update_thumbnail">Update thumbnail</string>
+	<string name="caption_menu_items_delete">Delete</string>
+	<string name="caption_menu_items_move">Move to tag</string>
+	<string name="caption_menu_items_browse">Browse</string>
+	<string name="caption_menu_items_share">Share</string>
+	<string name="caption_menu_items_copy">Copy url</string>
+	<string name="caption_menu_items_sort">Sort by</string>
+	<string name="caption_menu_items_add">Add Bookmark</string>
+
+	<string name="caption_sortorder_title_asc">Ascending By Title</string>
+	<string name="caption_sortorder_title_desc">Descending By Title</string>
+	<string name="caption_sortorder_url_asc">Ascending By URL</string>
+	<string name="caption_sortorder_created_desc">Descending By Created</string>
+	<string name="caption_sortorder_lastaccessed_desc">Descending By Last accessed</string>
+
+	<string name="caption_button_ok">OK</string>
+	<string name="caption_button_cancel">Cancel</string>
+	<string name="caption_button_continue">Continue</string>
+	<string name="caption_button_discard">Discard</string>
+
+	<string name="caption_title_inputtagname">Input tag name</string>
+	<string name="caption_title_choose_tags">Choose tag</string>
+	<string name="caption_title_inputbookmarktitle">Input bookmark title</string>
+	<string name="caption_title_addbookmark">Add bookmark</string>
+
+	<string name="caption_hint_additem_title">Input title.</string>
+	<string name="caption_hint_additem_url">Input url.</string>
+
+	<string name="msg_error_unexpectederror">Sorry, Unexpected error occurred! Your operation failed.</string>
+	<string name="msg_error_loaditems_failed">Sorry, It failed in loading data.</string>
+	<string name="msg_error_operation_canceled">Operation canceled.</string>
+	<string name="msg_error_activity_not_found">Application or activity not found.</string>
+	<string name="msg_error_busy">Busy now. Please wait...</string>
+	<string name="msg_error_text_is_null_or_empty">Can not input blank.</string>
+	<string name="msg_error_text_is_invalid">Invalid characters.</string>
+	<string name="msg_error_can_not_delete_tag">Can not delete this tag.</string>
+	<string name="msg_error_network_unavailable">Network unavailable(internet access is required).</string>
+
+	<string name="msg_normal_default_add">It have been add.</string>
+	<string name="msg_normal_default_deleted">It have been deleted.</string>
+	<string name="msg_normal_default_updated">It have been updated.</string>
+	<string name="msg_normal_default_moved">It have been moved.</string>
+	<string name="msg_normal_default_syncdone">Sync have been completed.</string>
+	<string name="msg_normal_default_failed">Execution failed.</string>
+
+	<string name="msg_normal_copy_to_clipboard">Copy url to clipboard.</string>
+	<string name="msg_normal_sync_continue">Is sync bookmarks processing continued?</string>
+	<string name="msg_normal_sync_start">Please tap here (Start sync)</string>
+	<string name="msg_normal_sync_progressing">Now processing. Please wait.</string>
+	<string name="msg_normal_empty_items">No bookmarks.</string>
+
+</resources>

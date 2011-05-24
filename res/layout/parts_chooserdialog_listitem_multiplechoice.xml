@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/chooserdialog_listitem"
+	android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+	style="@style/chooser_listitem"
+/>

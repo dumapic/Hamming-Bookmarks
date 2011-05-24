@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Copyright(C) 2011 - Hamming Bookmarks
+	Sample Demo app for hamsterdb.
+
+	@author DUMAPIC
+	@version 1.0.0
+-->
+<resources>
+
+	<string name="app_name_default">Hamming Bookmarks</string>
+	<string name="app_name_addbookmark">Add Bookmark</string>
+
+</resources>
